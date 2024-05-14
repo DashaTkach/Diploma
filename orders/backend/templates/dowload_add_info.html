@@ -1,0 +1,11 @@
+{% block content %}
+<h2>Execute Code</h2>
+<div id="resultContainer">
+    {{ photo }}<br>
+</div>
+<form method="post" action="{% url 'dowload_add_info' %}">
+    {% csrf_token %}
+    <button type="submit">Загрузить пробные данные</button>
+</form>
+
+{% endblock %}

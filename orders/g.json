@@ -1,0 +1,21 @@
+{
+    "model": "vizio/p-series-quantum",
+    "product": 28,
+    "shop": 3,
+    "quantity": 2,
+    "price": 1340,
+    "price_rrc": 1400,
+    "product_parameters": [
+            {
+                "parameter": "Screen Size (inches)",
+                "value": "65"
+            },
+            {
+                "parameter": "Resolution (pixels)",
+                "value": "3840x2160"
+            },
+            {
+                "parameter": "Smart TV",
+                "value": "True"
+            }
+        ]}
